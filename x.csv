@@ -1,9 +1,15 @@
 hello
+<<<<<<< HEAD
 we are about to merge
 some text
 together
 when there is a clash of merge, keep both
 when there is a class of merge, keep both
+=======
+blahblahblahwhen there is a clash of merge, keep both
+when there what is this it
+some virus  is a class of merge, keep both
+>>>>>>> feature1
 hello
 hello
 hello, i want to change this file on master branch
