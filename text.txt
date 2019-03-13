@@ -1,3 +1,4 @@
+add a new line create a conflict:x
 Hello my name is Jiaxi. 
 I am a first year MSE student.
  
